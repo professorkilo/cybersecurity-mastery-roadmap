@@ -73,7 +73,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - Play [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
     - Use [QEMU](https://www.qemu.org/) or [VirtualBox](https://www.virtualbox.org/)
   
-  - **Networking Basics**
+- **Networking Basics**
     - [Computer Networking: A Top-Down Approach](https://gaia.cs.umass.edu/kurose_ross/index.php)
     - [Stanford CS144: Computer Networking](https://cs144.github.io/)
     - [Practical Networking](https://www.practicalnetworking.net/)
