@@ -193,6 +193,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
     - "The Hacker Playbook 3" by Peter Kim
   - **Tools**:
     - [Kali Linux](https://www.kali.org/) - Security-focused Linux distribution
+    - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
     - [Metasploit](https://www.metasploit.com/) - Penetration testing framework
     - [Nmap](https://nmap.org/) - Network discovery and security auditing
   - **Practical Exercises**:
