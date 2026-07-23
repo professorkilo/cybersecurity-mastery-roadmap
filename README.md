@@ -383,6 +383,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 - **Secure Coding Practices**
   - [Secure Coding in Python](https://github.com/Ericsson/secure_coding_one_stop_shop_for_python)
+  - [Code Review Lab](https://www.codereviewlab.com/)
   - [OWASP Secure Coding Practices](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
   - [Secure Coding in Java](https://www.oracle.com/java/technologies/javase/seccodeguide.html)
   - [Microsoft Secure Coding Guidelines](https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2010/ms182020(v=vs.100))
@@ -833,6 +834,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
   - [WebGoat](https://owasp.org/www-project-webgoat/) - Deliberately insecure web application
   - [Metasploitable](https://sourceforge.net/projects/metasploitable/) - Vulnerable Linux virtual machine
   - [Vulnhub](https://www.vulnhub.com/) - Vulnerable virtual machines
+  - [Code Review Lab](https://www.codereviewlab.com/) - Practice Secure Code Review
   - [Hack The Box](https://www.hackthebox.eu/) - Online penetration testing platform
   - [PentesterLab](https://pentesterlab.com/) - Web penetration testing exercises
   - [Root Me](https://www.root-me.org/) - Hacking challenges
@@ -1292,6 +1294,7 @@ Progress through each phase sequentially, but feel free to dive deeper into topi
 
 - [Hack The Box](https://www.hackthebox.eu/) - Online platform for penetration testing practice
 - [TryHackMe](https://tryhackme.com/) - Learn cybersecurity through hands-on exercises
+- [Code Review Lab](https://www.codereviewlab.com/) - Practice Secure Code Review
 - [VulnHub](https://www.vulnhub.com/) - Vulnerable virtual machines for practice
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Web security training
 - [PentesterLab](https://pentesterlab.com/) - Web penetration testing exercises
